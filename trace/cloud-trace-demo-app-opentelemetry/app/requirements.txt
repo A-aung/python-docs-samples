@@ -1,4 +1,4 @@
-Flask==1.1.2
+Flask==2.0.1
 opentelemetry-api==0.8b0
 opentelemetry-auto-instrumentation==0.8b0
 opentelemetry-exporter-cloud-trace==0.9b0
