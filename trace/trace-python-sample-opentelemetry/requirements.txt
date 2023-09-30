@@ -1,4 +1,4 @@
-Flask==1.1.2
+Flask==3.0.0
 google-cloud-trace==0.24.0
 opentelemetry-api==0.16b1
 opentelemetry-instrumentation==0.16b1
