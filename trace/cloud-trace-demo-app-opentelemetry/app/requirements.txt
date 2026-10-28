@@ -11,4 +11,4 @@ opentelemetry-sdk==0.8b0
 grpcio==1.36.1
 httpretty==1.0.5
 google-cloud-monitoring==1.1.0
-google-cloud-trace==0.24.0
+google-cloud-trace==0.24.2
